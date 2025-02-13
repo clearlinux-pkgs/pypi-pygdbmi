@@ -7,7 +7,7 @@
 #
 Name     : pypi-pygdbmi
 Version  : 0.11.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/2a/d0/d386ad42b12b90e60293c56a3b793910f34aa21c63f7ddc8a857e498d458/pygdbmi-0.11.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2a/d0/d386ad42b12b90e60293c56a3b793910f34aa21c63f7ddc8a857e498d458/pygdbmi-0.11.0.0.tar.gz
 Summary  : Parse gdb machine interface output with Python
